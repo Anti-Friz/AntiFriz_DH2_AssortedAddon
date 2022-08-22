@@ -12,8 +12,8 @@
     "minimum": "9",
     "verified": "10"
   },
-  "manifest": "latest/module.json",
-  "download": "/archive/1.0.1/resting-1.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/Anti-Friz/AntiFriz_DH2_AssortedAddon/master/module.json",
+  "download": "https://github.com/Anti-Friz/AntiFriz_DH2_AssortedAddon/archive/refs/tags/v.0.zip",
   "url": "https://github.com/Anti-Friz/AntiFriz_DH2_AssortedAddon"
 
 }
