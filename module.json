@@ -1,0 +1,19 @@
+{
+  "id": "AntiFriz_DH2_AssortedAddon",
+  "title": "AntiFriz_DH2_AssortedAddon",
+  "description": ".",
+  "authors": [
+    {
+      "name": "AntiFriz"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "manifest": "latest/module.json",
+  "download": "/archive/1.0.1/resting-1.0.1.zip",
+  "url": ""
+
+}
